@@ -1,6 +1,7 @@
-# Welcome to GitHub Desktop!
+# 🖼️ Shared Assets
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Repository di sole immagini, usato come hosting per i badge del footer "Vuoi darmi una mano?" presente in tutti i miei repository pubblici (ko-fi, PayPal, Amazon, canali Telegram).
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-Simonz82
+Non contiene codice: se stai cercando un progetto, guarda gli altri repository di [Simonz82](https://github.com/Simonz82).
+
+(Rinominato da `desktop-tutorial` a `shared-assets` il 18/09/2026 per riflettere il suo vero scopo.)
